@@ -1,4 +1,4 @@
-module github.com/sinhadotabhinav/log-writer
+module github.com/sinhadotabhinav/logwriter
 
 go 1.16
 
